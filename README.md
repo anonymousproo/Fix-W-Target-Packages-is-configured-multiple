@@ -26,13 +26,13 @@ W: Target Packages (main/binary-i386/Packages) is configured multiple times in /
 W: Target Packages (main/binary-all/Packages) is configured multiple times in /etc/apt/sources.list:33 and /etc/apt/sources.list:87<br>
 
 
-# Is there an automated way to fix this?<br>
+# Is there an automated way to fix this?
 
-# Recent, up-to-date solution<br>
+# Recent, up-to-date solution
 
-# I wrote a Python script to automate this task.<br>
+# I wrote a Python script to automate this task.
 
-# Installation:<br>
+# Installation:
 
 sudo apt install python3-apt
 
