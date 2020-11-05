@@ -1,3 +1,6 @@
+![Fuxion logo](https://github.com/anonymousproo/Fix-W-Target-Packages-is-configured-multiple/blob/main/jbk0qhan1gh7.png)
+
+![Fuxion logo](https://github.com/anonymousproo/Fix-W-Target-Packages-is-configured-multiple/blob/main/91ecac0b90b912f72ebffa896051adf7.jpg)
 # Fix-W-Target-Packages-is-configured-multiple
 
 I just installed Ubuntu Gnome 16.04. I told it to save my documents - which worked. Some software had to be reinstalled. Now when I run sudo apt-get update I see this:
