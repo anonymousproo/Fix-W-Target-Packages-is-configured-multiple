@@ -28,9 +28,9 @@ W: Target Packages (main/binary-all/Packages) is configured multiple times in /e
 
 # Is there an automated way to fix this?
 
-# Recent, up-to-date solution
+Recent, up-to-date solution
 
-# I wrote a Python script to automate this task.
+I wrote a Python script to automate this task.
 
 # Installation:
 
