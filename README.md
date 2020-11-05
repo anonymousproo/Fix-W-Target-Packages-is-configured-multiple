@@ -43,7 +43,27 @@ sudo apt install python3-apt
 
 cd Downloads
 
-sudo chmod +x [file name] ex: aptsources-cleanup.pyz
+sudo chmod +x **[file name]** ex: aptsources-cleanup.pyz
 
 
-sudo python3 -OEs [file name] ex: aptsources-cleanup.pyz]
+sudo python3 -OEs **[file name]** ex: aptsources-cleanup.pyz]
+
+## :octocat: Credits
+
+1. l3op - contributor
+2. @anonymousproo1 - contributor
+3. mahfuz - developer of linset
+4. Derv548 - @anonymousproo1
+5. python3 @anonymousproo1 
+6. youTube Channel:  https://www.youtube.com/anonymousproo
+7. Ons Ali @wallpaper
+8. PappleTec youtube
+9. aptsources-cleanup V 3.0
+10. anonymousproo1 - contributor
+
+
+## Links
+
+**website:** www.anonymousproo.com
+**Facebook:** https://web.facebook.com/anonymousproo1
+**YouTube:** https://www.youtube.com/anonymousproo
