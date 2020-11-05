@@ -2,10 +2,10 @@
 
 I just installed Ubuntu Gnome 16.04. I told it to save my documents - which worked. Some software had to be reinstalled. Now when I run sudo apt-get update I see this:
 
-W: Target Packages (main/binary-amd64/Packages) is configured multiple times in /etc/apt/sources.list:33 and /etc/apt/sources.list:87
-W: Target Packages (main/binary-i386/Packages) is configured multiple times in /etc/apt/sources.list:33 and /etc/apt/sources.list:87
-W: Target Packages (main/binary-all/Packages) is configured multiple times in /etc/apt/sources.list:33 and /etc/apt/sources.list:87
-W: Target Packages (main/binary-amd64/Packages) is configured multiple times in /etc/apt/sources.list:33 and /etc/apt/sources.list:87
+W: Target Packages (main/binary-amd64/Packages) is configured multiple times in /etc/apt/sources.list:33 and /etc/apt/sources.list:87<br>
+W: Target Packages (main/binary-i386/Packages) is configured multiple times in /etc/apt/sources.list:33 and /etc/apt/sources.list:87<br>
+W: Target Packages (main/binary-all/Packages) is configured multiple times in /etc/apt/sources.list:33 and /etc/apt/sources.list:87<br>
+W: Target Packages (main/binary-amd64/Packages) is configured multiple times in /etc/apt/sources.list:33 and /etc/apt/sources.list:87<br>
 W: Target Packages (main/binary-i386/Packages) is configured multiple times in /etc/apt/sources.list:33 and /etc/apt/sources.list:87
 W: Target Packages (main/binary-all/Packages) is configured multiple times in /etc/apt/sources.list:33 and /etc/apt/sources.list:87
 W: Target Translations (multiverse/i18n/Translation-en_GB) is configured multiple times in /etc/apt/sources.list:33 and /etc/apt/sources.list:87
