@@ -62,6 +62,7 @@ W: Target DEP-11-icons (multiverse/dep11/icons-64x64.tar) is configured multiple
 
 sudo apt install python3-apt
 
+# friest [Download file here](https://github.com/anonymousproo/Fix-W-Target-Packages-is-configured-multiple/raw/main/aptsources-cleanup.pyz)
 
 cd Downloads
 
